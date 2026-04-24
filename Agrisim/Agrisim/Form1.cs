@@ -54,7 +54,9 @@ namespace Agrisim
                     if (reader.HasRows)
                     {
                         MessageBox.Show("Login successful!");
-
+                        dashboard dashboardform = new dashboard();
+                        dashboardform.Show();
+                        this.Hide();
                         // Proceed to the next form or main application
                     }
                     else
@@ -67,6 +69,11 @@ namespace Agrisim
             {
                 MessageBox.Show("An error occurred: " + ex.Message);
             }
+        }
+
+        private void label2_Click_1(object sender, EventArgs e)
+        {
+         
         }
     }
 }
