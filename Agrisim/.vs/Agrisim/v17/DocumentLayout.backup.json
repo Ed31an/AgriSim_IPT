@@ -1,18 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Edrian Baladad\\source\\repos\\Agrisim\\",
+<<<<<<< HEAD
+  "WorkspaceRootPath": "C:\\Users\\iande\\source\\repos\\AgriSim_IPT\\Agrisim\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3CB0944F-8539-4FB8-9266-040899413F8E}|Agrisim\\Agrisim.csproj|C:\\Users\\Edrian Baladad\\source\\repos\\Agrisim\\agrisim\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3CB0944F-8539-4FB8-9266-040899413F8E}|Agrisim\\Agrisim.csproj|c:\\users\\iande\\source\\repos\\agrisim_ipt\\agrisim\\agrisim\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3CB0944F-8539-4FB8-9266-040899413F8E}|Agrisim\\Agrisim.csproj|solutionrelative:agrisim\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB0944F-8539-4FB8-9266-040899413F8E}|Agrisim\\Agrisim.csproj|c:\\users\\iande\\source\\repos\\agrisim_ipt\\agrisim\\agrisim\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3CB0944F-8539-4FB8-9266-040899413F8E}|Agrisim\\Agrisim.csproj|solutionrelative:agrisim\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB0944F-8539-4FB8-9266-040899413F8E}|Agrisim\\Agrisim.csproj|c:\\users\\iande\\source\\repos\\agrisim_ipt\\agrisim\\agrisim\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB0944F-8539-4FB8-9266-040899413F8E}|Agrisim\\Agrisim.csproj|solutionrelative:agrisim\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB0944F-8539-4FB8-9266-040899413F8E}|Agrisim\\Agrisim.csproj|c:\\users\\iande\\source\\repos\\agrisim_ipt\\agrisim\\agrisim\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB0944F-8539-4FB8-9266-040899413F8E}|Agrisim\\Agrisim.csproj|solutionrelative:agrisim\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB0944F-8539-4FB8-9266-040899413F8E}|Agrisim\\Agrisim.csproj|c:\\users\\iande\\source\\repos\\agrisim_ipt\\agrisim\\agrisim\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB0944F-8539-4FB8-9266-040899413F8E}|Agrisim\\Agrisim.csproj|solutionrelative:agrisim\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\AgriSim_IPT\\Agrisim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB0944F-8539-4FB8-9266-040899413F8E}|Agrisim\\Agrisim.csproj|C:\\Users\\user\\source\\repos\\AgriSim_IPT\\Agrisim\\agrisim\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3CB0944F-8539-4FB8-9266-040899413F8E}|Agrisim\\Agrisim.csproj|solutionrelative:agrisim\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CB0944F-8539-4FB8-9266-040899413F8E}|Agrisim\\Agrisim.csproj|c:\\users\\edrian baladad\\source\\repos\\agrisim\\agrisim\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3CB0944F-8539-4FB8-9266-040899413F8E}|Agrisim\\Agrisim.csproj|c:\\users\\user\\source\\repos\\agrisim_ipt\\agrisim\\agrisim\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3CB0944F-8539-4FB8-9266-040899413F8E}|Agrisim\\Agrisim.csproj|solutionrelative:agrisim\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CB0944F-8539-4FB8-9266-040899413F8E}|Agrisim\\Agrisim.csproj|C:\\Users\\Edrian Baladad\\source\\repos\\Agrisim\\agrisim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3CB0944F-8539-4FB8-9266-040899413F8E}|Agrisim\\Agrisim.csproj|C:\\Users\\user\\source\\repos\\AgriSim_IPT\\Agrisim\\agrisim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3CB0944F-8539-4FB8-9266-040899413F8E}|Agrisim\\Agrisim.csproj|solutionrelative:agrisim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB0944F-8539-4FB8-9266-040899413F8E}|Agrisim\\Agrisim.csproj|C:\\Users\\user\\source\\repos\\AgriSim_IPT\\Agrisim\\agrisim\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3CB0944F-8539-4FB8-9266-040899413F8E}|Agrisim\\Agrisim.csproj|solutionrelative:agrisim\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+>>>>>>> cbab1c947f6bd2503e73d3f8dfbd417328f21375
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +50,118 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+<<<<<<< HEAD
+          "SelectedChildIndex": 4,
+=======
+          "SelectedChildIndex": 2,
+>>>>>>> cbab1c947f6bd2503e73d3f8dfbd417328f21375
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AgriSim_IPT\\Agrisim\\Agrisim\\dashboard.cs",
+              "RelativeDocumentMoniker": "Agrisim\\dashboard.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AgriSim_IPT\\Agrisim\\Agrisim\\dashboard.cs [Design]",
+              "RelativeToolTip": "Agrisim\\dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T14:33:56.373Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+<<<<<<< HEAD
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\iande\\source\\repos\\AgriSim_IPT\\Agrisim\\Agrisim\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Agrisim\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\iande\\source\\repos\\AgriSim_IPT\\Agrisim\\Agrisim\\Form1.Designer.cs",
+              "RelativeToolTip": "Agrisim\\Form1.Designer.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T12:40:02.125Z",
+=======
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Edrian Baladad\\source\\repos\\Agrisim\\Agrisim\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AgriSim_IPT\\Agrisim\\Agrisim\\Program.cs",
               "RelativeDocumentMoniker": "Agrisim\\Program.cs",
-              "ToolTip": "C:\\Users\\Edrian Baladad\\source\\repos\\Agrisim\\Agrisim\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AgriSim_IPT\\Agrisim\\Agrisim\\Program.cs",
               "RelativeToolTip": "Agrisim\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T12:53:03.31Z"
+              "WhenOpened": "2026-04-24T12:53:03.31Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Edrian Baladad\\source\\repos\\Agrisim\\Agrisim\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AgriSim_IPT\\Agrisim\\Agrisim\\Form1.cs",
               "RelativeDocumentMoniker": "Agrisim\\Form1.cs",
-              "ToolTip": "C:\\Users\\Edrian Baladad\\source\\repos\\Agrisim\\Agrisim\\Form1.cs",
-              "RelativeToolTip": "Agrisim\\Form1.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAIwDAAAAA+AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AgriSim_IPT\\Agrisim\\Agrisim\\Form1.cs*",
+              "RelativeToolTip": "Agrisim\\Form1.cs*",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwC0AAACBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-24T13:00:18.421Z",
+>>>>>>> cbab1c947f6bd2503e73d3f8dfbd417328f21375
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+<<<<<<< HEAD
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\iande\\source\\repos\\AgriSim_IPT\\Agrisim\\Agrisim\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Agrisim\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\iande\\source\\repos\\AgriSim_IPT\\Agrisim\\Agrisim\\Properties\\Resources.resx",
+              "RelativeToolTip": "Agrisim\\Properties\\Resources.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAArwJ8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-04-26T12:38:31.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\iande\\source\\repos\\AgriSim_IPT\\Agrisim\\Agrisim\\dashboard.cs",
+              "RelativeDocumentMoniker": "Agrisim\\dashboard.cs",
+              "ToolTip": "C:\\Users\\iande\\source\\repos\\AgriSim_IPT\\Agrisim\\Agrisim\\dashboard.cs",
+              "RelativeToolTip": "Agrisim\\dashboard.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCgAAABBAAAAAAAAAA==",
+=======
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Edrian Baladad\\source\\repos\\Agrisim\\Agrisim\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AgriSim_IPT\\Agrisim\\Agrisim\\Form1.cs",
               "RelativeDocumentMoniker": "Agrisim\\Form1.cs",
-              "ToolTip": "C:\\Users\\Edrian Baladad\\source\\repos\\Agrisim\\Agrisim\\Form1.cs [Design]",
-              "RelativeToolTip": "Agrisim\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AgriSim_IPT\\Agrisim\\Agrisim\\Form1.cs [Design]*",
+              "RelativeToolTip": "Agrisim\\Form1.cs [Design]*",
+>>>>>>> cbab1c947f6bd2503e73d3f8dfbd417328f21375
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T12:51:06.019Z",
+              "WhenOpened": "2026-04-26T11:39:36.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\iande\\source\\repos\\AgriSim_IPT\\Agrisim\\Agrisim\\dashboard.Designer.cs",
+              "RelativeDocumentMoniker": "Agrisim\\dashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\iande\\source\\repos\\AgriSim_IPT\\Agrisim\\Agrisim\\dashboard.Designer.cs*",
+              "RelativeToolTip": "Agrisim\\dashboard.Designer.cs*",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAAAJsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T11:31:06.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\iande\\source\\repos\\AgriSim_IPT\\Agrisim\\Agrisim\\dashboard.cs",
+              "RelativeDocumentMoniker": "Agrisim\\dashboard.cs",
+              "ToolTip": "C:\\Users\\iande\\source\\repos\\AgriSim_IPT\\Agrisim\\Agrisim\\dashboard.cs [Design]",
+              "RelativeToolTip": "Agrisim\\dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T11:00:29.434Z",
               "EditorCaption": " [Design]"
             }
           ]

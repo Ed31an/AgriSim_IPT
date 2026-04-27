@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Guna.UI2.WinForms;
+using MySql.Data.MySqlClient;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -7,7 +9,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using MySql.Data.MySqlClient;
 
 namespace Agrisim
 {
@@ -20,21 +21,6 @@ namespace Agrisim
         }
 
         private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void labelusername_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
         {
 
         }
@@ -54,8 +40,13 @@ namespace Agrisim
                     if (reader.HasRows)
                     {
                         MessageBox.Show("Login successful!");
-
+<<<<<<< HEAD
+=======
+                        dashboard dashboardform = new dashboard();
+                        dashboardform.Show();
+                        this.Hide();
                         // Proceed to the next form or main application
+>>>>>>> cbab1c947f6bd2503e73d3f8dfbd417328f21375
                     }
                     else
                     {
@@ -67,6 +58,38 @@ namespace Agrisim
             {
                 MessageBox.Show("An error occurred: " + ex.Message);
             }
+        }
+
+<<<<<<< HEAD
+        private void textBoxPassword_IconRightClick(object sender, EventArgs e)
+        {
+            if (textBoxPassword.PasswordChar == '•')
+            {
+                textBoxPassword.PasswordChar = '\0';
+                textBoxPassword.IconRight = global::Agrisim.Properties.Resources.eye_solid;
+            }
+            else
+            {
+                textBoxPassword.PasswordChar = '•';
+                textBoxPassword.IconRight = global::Agrisim.Properties.Resources.eye_regular;
+            }
+        }
+
+        private void BackBttn_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnLogin_Click_1(object sender, EventArgs e)
+        {
+            Dashboard dashboard = new Dashboard();
+            dashboard.Show();
+            this.Visible = false;
+=======
+        private void label2_Click_1(object sender, EventArgs e)
+        {
+         
+>>>>>>> cbab1c947f6bd2503e73d3f8dfbd417328f21375
         }
     }
 }
